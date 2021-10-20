@@ -2,7 +2,7 @@
 ![license](https://img.shields.io/badge/license-{userLicense}-blue)
 ## Description
 {userDescription}
-## Table of Contents (Auto Generated)
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
