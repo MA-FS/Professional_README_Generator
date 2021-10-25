@@ -149,8 +149,8 @@ inquirer
   ${response.userTests}
   ## Questions
   Have questions? Feel free to get in touch with me via either of the following methods;
-  -   GitHub: [${response.userGitHubName}](https://github.com/${response.userGitHubName})
-  -   Email:  [${response.userEmail}](mailto:${response.userEmail})
+  -   GitHub: [${response.userGitHubName}](https://github.com/${response.userGitHubName}) ![GitHub](https://img.shields.io/github/followers/${response.userGitHubName}?style=social)
+  -   Email:  [${response.userEmail}](mailto:${response.userEmail}) 📧
   ## License
   This project is covered under the "${response.userLicense.replace(/[_-]/g, " ")}" license as detailed below.
   
